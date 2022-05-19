@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
 	margin: 0;
 	padding: 0;
@@ -159,3 +160,133 @@ input, textarea{
     border-radius: 20px;
     border: none;
 }
+=======
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #C33C13;
+}
+
+body {
+	background: linear-gradient(#0f596f,#68b2c8);
+	font-size: 13pt;
+	line-height: 1.75em;
+	color: #CEE1E6;
+	font-family: Tahoma, sans-serif;
+}
+
+#wrapper {
+	width: 980px;
+	margin: 80px auto 0 auto;
+}
+
+p {
+	margin-bottom: 1.5em;
+	text-align: justify;
+}
+
+#content {
+	padding: 0;	
+    margin-left: 30px;
+	width: 625px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+footer {
+	text-align: center;
+	padding: 40px 0 0 0;
+	margin: 0 0 85px 0;
+}
+
+footer a {
+	color: #CEE1E6;
+}
+
+#header {	
+	color: #FFFFFF;
+	background: -webkit-linear-gradient(left, #934b07,#854407);
+	height: 190px;
+    border-radius: 10px 10px 0 0 ;
+}
+
+#logo {
+    padding-left: 45px;
+	line-height: 168px;
+	height: 168px;
+}
+
+#logo a {	
+	color: #FFFFFF;
+}
+
+#logo h1 {
+	font-family: Bitter, serif;
+	font-size: 3.25em;
+}
+
+#menu {
+	font-family: Bitter, serif;
+	height: 62px;	
+	background: -webkit-linear-gradient(left, #b42d04,#962503 );
+	border-top: solid 1px #F06940;
+	border-bottom: solid 1px #CF8743;
+	width: 100%;
+	padding: 0 45px 0 35px;
+	line-height: 62px;	
+    box-sizing: border-box;
+    border-radius: 10px 10px 0 0;
+}
+
+#menu a {
+	color: #FFFFFF;
+	padding: 0 20px 0 20px;
+}
+
+#page {
+	background-color: #FFFFFF;	
+	padding: 45px 45px 0px 45px;
+	color: #606060;	
+    border-radius: 0 0 10px 10px;
+}
+
+#page h2, #page h3, #page h4 {
+	color: #242424;
+}
+
+#page ul {
+	list-style: none;
+}
+
+#page ul li {
+	border-top: solid 1px #C9C9C9;	
+}
+
+#post1 {	
+	margin: 0 0 35px 0;
+	text-align: justify;
+}
+
+.post2 {
+	width: 280px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 12px;
+}
+
+#sidebar {
+	width: 225px;
+	padding: 0;
+	display: inline-block;
+}
+
+#sidebar a,.post2 a{
+	border-top: solid 1px #C9C9C9;
+	padding: 15px 0 15px 0;
+	display: block;
+}
+>>>>>>> 7fbcd6a781fcf0e565d1c275ef8a2ce9bc9203d9
